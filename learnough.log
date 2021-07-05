@@ -1,0 +1,11 @@
+
+Pinging learnenough.com [2606:4700:20::681a:1a7] with 32 bytes of data:
+Reply from 2606:4700:20::681a:1a7: time=17ms 
+Reply from 2606:4700:20::681a:1a7: time=17ms 
+Reply from 2606:4700:20::681a:1a7: time=18ms 
+Reply from 2606:4700:20::681a:1a7: time=17ms 
+
+Ping statistics for 2606:4700:20::681a:1a7:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 17ms, Maximum = 18ms, Average = 17ms
